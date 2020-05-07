@@ -1,0 +1,3 @@
+Este es un ejemplo del uso de git con el curso de platzi
+
+Este es el primer achivo para el commit.
