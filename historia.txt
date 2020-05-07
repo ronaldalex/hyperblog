@@ -1,3 +1,5 @@
-Este es un ejemplo del uso de git con el curso de platzi
+Este es el primer ejemplo del uso de git con el curso de platzi
+
+Tengo 26 años y este es el curso de platzi usando git.
 
 Este es el primer achivo para el commit.
