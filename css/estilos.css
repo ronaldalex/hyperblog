@@ -44,3 +44,7 @@ body {
   background: white;
   padding: 1em;
 }
+
+#img {
+  width: -moz-available;
+}
