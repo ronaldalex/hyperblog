@@ -46,5 +46,5 @@ body {
 }
 
 #img {
-  width: -moz-available;
+  width: 100%;
 }
